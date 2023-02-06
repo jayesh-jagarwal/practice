@@ -35,7 +35,6 @@ Hi, I'm Jayesh. I'm 21 years of old. I'm from Gujrat
 
 — Jayesh the Practice
 
-## About me
 
 <!-- TO DO: add more details about me later -->
 
